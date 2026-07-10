@@ -275,7 +275,7 @@ button, input, textarea {
 
 .home__social {
   display: flex;
-  justify-content: left;
+  justify-content: center;
   gap: 1.25rem;
   margin-top: var(--mb-4);
 }
